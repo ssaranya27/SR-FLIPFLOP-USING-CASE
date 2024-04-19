@@ -48,6 +48,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
+DEVELOPED BY : SARANYA S.
+REGISTER NUMBER:212223220101
+
+
 module sr_ff(q, q_bar, s,r,clk, reset);
 input s,r,clk, reset;
 output reg q;
