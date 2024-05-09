@@ -82,6 +82,8 @@ else begin
 ![alt text](<Screenshot (4).png>)
 
 
+
+
 **RESULTS**
  Thus, SR flipflop has been implemented using verilog and their functionality has been validated using their functional tables.
 
